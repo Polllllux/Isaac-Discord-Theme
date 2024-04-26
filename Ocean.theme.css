@@ -34,9 +34,9 @@
 :root {
   --ocean-bg: url(https://i.pinimg.com/originals/8b/79/c6/8b79c6aecf591b59f4f36ab85614fbcf.jpg);
   --ocean-home-icon: url(https://static.wikia.nocookie.net/bindingofisaac/images/c/c8/Brimstone_Icon.png);
-  --ocean-color1: #1c001f;
-  --ocean-color2: #1c005f;
-  --ocean-color3: #1c005f;
+  --ocean-color1: #00d5ce;
+  --ocean-color2: #0a173a;
+  --ocean-color3: #1487b1;
   --watermark-filter-invert: 100%;
   --watermark-filter-sepia: 150%;
   --watermark-filter-saturate: 3000%;
