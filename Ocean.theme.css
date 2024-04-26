@@ -38,10 +38,10 @@
   --ocean-color2: #0a173a;
   --ocean-color3: #1487b1;
   --watermark-filter-invert: 100%;
-  --watermark-filter-sepia: 150%;
-  --watermark-filter-saturate: 3000%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 100%;
   --watermark-filter-hue-rotate: 150deg;
-  --watermark-filter-brightness: 100%;
-  --watermark-filter-contrast: 100%;
+  --watermark-filter-brightness: 800%;
+  --watermark-filter-contrast: 130%;
   --ocean-emoji-picker-color: 150deg;
 }
