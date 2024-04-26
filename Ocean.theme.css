@@ -32,8 +32,8 @@
 @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Ocean/Ocean.theme.css');
 
 :root {
-  --ocean-bg: url(https://devevil.com/betterdiscord/ocean-background.png);
-  --ocean-home-icon: url(https://devevil.com/betterdiscord/ocean-home-icon.png);
+  --ocean-bg: url(https://i.pinimg.com/originals/8b/79/c6/8b79c6aecf591b59f4f36ab85614fbcf.jpg);
+  --ocean-home-icon: url(https://static.wikia.nocookie.net/bindingofisaac/images/c/c8/Brimstone_Icon.png);
   --ocean-color1: #00d5ce;
   --ocean-color2: #0a173a;
   --ocean-color3: #1487b1;
@@ -45,4 +45,3 @@
   --watermark-filter-contrast: 200%;
   --ocean-emoji-picker-color: 150deg;
 }
-
