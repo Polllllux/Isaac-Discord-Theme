@@ -33,13 +33,13 @@
 
 :root {
   --ocean-bg: url(https://pbs.twimg.com/media/E5IvgxoX0AI2Z9A.jpg);
-  --ocean-home-icon: url(https://static.wikia.nocookie.net/bindingofisaac/images/c/c8/Brimstone_Icon.png);
-  --ocean-color1: #0a173a;
-  --ocean-color2: #c21e1f;
-  --ocean-color3: #dcdcda;
+  --ocean-home-icon: url(https://static.wikia.nocookie.net/infinite-welfare/images/a/af/Bimstoen.png/revision/latest?cb=20190824004902);
+  --ocean-color1: #300003;
+  --ocean-color2: #4d4d4d;
+  --ocean-color3: #ff734d;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
-  --watermark-filter-saturate: 100%;
+  --watermark-filter-saturate: 200%;
   --watermark-filter-hue-rotate: 150deg;
   --watermark-filter-brightness: 800%;
   --watermark-filter-contrast: 130%;
