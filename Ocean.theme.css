@@ -33,9 +33,9 @@
 
 :root {
   --ocean-bg: url(https://pbs.twimg.com/media/E5IvgxoX0AI2Z9A.jpg);
-  --ocean-home-icon: url(https://static.wikia.nocookie.net/infinite-welfare/images/a/af/Bimstoen.png/revision/latest?cb=20190824004902);
+  --ocean-home-icon: url(https://static.wikia.nocookie.net/infinite-welfare/images/a/af/Bimstoen.png);
   --ocean-color1: #300003;
-  --ocean-color2: #4d4d4d;
+  --ocean-color2: #e0e0e0;
   --ocean-color3: #ff734d;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
